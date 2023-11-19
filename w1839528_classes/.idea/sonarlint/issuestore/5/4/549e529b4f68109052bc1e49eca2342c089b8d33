@@ -1,0 +1,86 @@
+
+]
+java:S1192)"GDefine a constant instead of duplicating this literal "booth " 7 times.(ÑÙ
+g
+java:S1192Ë"KDefine a constant instead of duplicating this literal "report.txt" 3 times.(ê¯ íıÿÿÿÿ
+`
+java:S1192)"JDefine a constant instead of duplicating this literal " is empty" 3 times.(ÑÙ
+j
+java:S1192Ò"SDefine a constant instead of duplicating this literal "An error occurred." 3 times.(Àûå 
+n	java:S135Z"YReduce the total number of break and continue statements in this loop to use at most one.(éºšš
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾ é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÀŞ™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıíÓæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ‰Äáûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ì‚êøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(îéÓz
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›åğÎùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º°Ûªøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ğØ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(È‹É”
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(€œ×ôüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ë²£Ÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(š²¤T
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÑÙ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(‘ÀŞ¶ùÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¨üÛü
+[
+java:S1854n"@Remove this useless assignment to local variable "customerName".(çÖú‰ıÿÿÿÿ
+m
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(êû£øÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(˜Ã¨¡
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Œ™è‡
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Œê¨¡
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ï°âë
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ö‡ÉÊ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ó÷ÂÛ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(¯úúÔûÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(å–‡ÿÿÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ˆÄ±Úşÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(³Ô¹¥ûÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(‚šğÁüÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(¨üÛü
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(ï¾
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(É£—Š
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(…²Ç
+L
+java:S2696v"6Make the enclosing method "static" or remove this set.(çæğæ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(‘ÀŞ¶ùÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(·šÕÄşÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ºŒÉğúÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(»Üí
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(ù€•
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(âè¸
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(é«Ñ©
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ïä£ÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(ÍŞ··ıÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(Æ¿Äÿÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106Í"9Replace this use of System.out or System.err by a logger.(ğ¹éu
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Àûå 
+R	java:S125Û"<This block of commented-out lines of code should be removed.(‰çÈ¢
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(¾¸ÿ
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(Àûå 
+R
+java:S2696ñ"6Make the enclosing method "static" or remove this set.(ˆ¨˜ıÿÿÿÿ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(‚ºŞùÿÿÿÿ
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(§”¿ùÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(Ä€á¼
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(ş®¯Š
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(á¡ÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(“€Øë
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¼Úä…
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(˜æ¤óıÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(·»“Ìúÿÿÿÿ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(ÑŞÊ¡şÿÿÿÿ
+G
+java:S1481;"1Remove this unused "customerName" local variable.(ÍîÓ
+E
+java:S1481Ù")Remove this unused "temp" local variable.(¹‘… úÿÿÿÿ

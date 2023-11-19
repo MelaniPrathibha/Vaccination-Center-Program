@@ -1,0 +1,6 @@
+e,null,0,null,0,null
+Ploe,Steven,12,London,46156546,AstraZeneca
+Mike,Luciffer,23,Colombo,875434554,Sinopharm
+e,null,0,null,0,null
+e,null,0,null,0,null
+Amanda,Silva,42,Colombo,4536453645,Pfizer

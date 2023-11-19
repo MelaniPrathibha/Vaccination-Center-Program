@@ -1,0 +1,70 @@
+
+_
+java:S2095¼"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Û´¬Œ
+`
+java:S1192)"JDefine a constant instead of duplicating this literal " is empty" 3 times.(²éÑÂ
+j
+java:S1192·"SDefine a constant instead of duplicating this literal "An error occurred." 3 times.(Àûå 
+]
+java:S1192)"GDefine a constant instead of duplicating this literal "booth " 7 times.(²éÑÂ
+g
+java:S1192°"KDefine a constant instead of duplicating this literal "report.txt" 3 times.(ê¯ íıÿÿÿÿ
+n	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(éºšš
+s	java:S135u"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾ é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÀŞ™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıíÓæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ‰Äáûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ì‚êøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(îéÓz
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›åğÎùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º°Ûªøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ğØ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(È‹É”
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(€œ×ôüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ë²£Ÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(š²¤T
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(²éÑÂ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÿİáÈ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¨üÛü
+m
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(êû£øÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¨üÛü
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ï¾
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(É£—Š
+M	java:S106S"9Replace this use of System.out or System.err by a logger.(…²Ç
+L
+java:S2696\"6Make the enclosing method "static" or remove this set.(çæğæ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(ÿİáÈ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(·šÕÄşÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ºŒÉğúÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(»Üí
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(ù€•
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(âè¸
+O	java:S106"9Replace this use of System.out or System.err by a logger.(é«Ñ©
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ïä£ÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÍŞ··ıÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(‹¾ÖÖùÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106²"9Replace this use of System.out or System.err by a logger.(ğ¹éu
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(Àûå 
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(¾¸ÿ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Àûå 
+R
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(ˆ¨˜ıÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(‚ºŞùÿÿÿÿ
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(§”¿ùÿÿÿÿ
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(Ä€á¼
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(ş®¯Š
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(á¡ÿÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(“€Øë
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¼Úä…
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(˜æ¤óıÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(·»“Ìúÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ÑŞÊ¡şÿÿÿÿ
